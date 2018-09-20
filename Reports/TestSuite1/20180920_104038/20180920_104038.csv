@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,Firefox 61.0,Data-driven testing approach with Katalon Studio,2018-09-20 10:40:44,2018-09-20 10:41:44,"1m - 0,111s",INCOMPLETE
+,,,,,,
+Test Cases/TestCase2,Firefox 61.0,Data-driven testing approach with Katalon Studio,2018-09-20 10:40:44,2018-09-20 10:41:23,"38,706s",FAILED
+openBrowser,Firefox 61.0,,2018-09-20 10:40:44,2018-09-20 10:40:49,"4,686s",PASSED
+navigateToUrl,Firefox 61.0,,2018-09-20 10:40:49,2018-09-20 10:40:51,"2,188s",PASSED
+click,Firefox 61.0,,2018-09-20 10:40:51,2018-09-20 10:40:52,"0,337s",PASSED
+setText,Firefox 61.0,,2018-09-20 10:40:52,2018-09-20 10:40:52,"0,075s",PASSED
+setText,Firefox 61.0,,2018-09-20 10:40:52,2018-09-20 10:40:52,"0,056s",PASSED
+click,Firefox 61.0,,2018-09-20 10:40:52,2018-09-20 10:40:52,"0,327s",PASSED
+click,Firefox 61.0,,2018-09-20 10:40:52,2018-09-20 10:41:23,"30,803s",FAILED
+,,,,,,
+Test Cases/TestCase2,Firefox 61.0,Data-driven testing approach with Katalon Studio,2018-09-20 10:41:23,2018-09-20 10:41:30,"7,588s",PASSED
+openBrowser,Firefox 61.0,,2018-09-20 10:41:23,2018-09-20 10:41:27,"3,976s",PASSED
+navigateToUrl,Firefox 61.0,,2018-09-20 10:41:27,2018-09-20 10:41:29,"2,261s",PASSED
+click,Firefox 61.0,,2018-09-20 10:41:29,2018-09-20 10:41:29,"0,353s",PASSED
+setText,Firefox 61.0,,2018-09-20 10:41:29,2018-09-20 10:41:29,"0,060s",PASSED
+setText,Firefox 61.0,,2018-09-20 10:41:29,2018-09-20 10:41:30,"0,060s",PASSED
+click,Firefox 61.0,,2018-09-20 10:41:30,2018-09-20 10:41:30,"0,397s",PASSED
+click,Firefox 61.0,,2018-09-20 10:41:30,2018-09-20 10:41:30,"0,270s",PASSED
+closeBrowser,Firefox 61.0,,2018-09-20 10:41:30,2018-09-20 10:41:30,"0,197s",PASSED
+,,,,,,
+Test Cases/TestCase2,Firefox 61.0,Data-driven testing approach with Katalon Studio,2018-09-20 10:41:30,2018-09-20 10:41:44,"13,572s",FAILED
+openBrowser,Firefox 61.0,,2018-09-20 10:41:30,2018-09-20 10:41:34,"3,839s",PASSED
+navigateToUrl,Firefox 61.0,,2018-09-20 10:41:34,2018-09-20 10:41:36,"2,196s",PASSED
+click,Firefox 61.0,,2018-09-20 10:41:36,2018-09-20 10:41:37,"0,358s",PASSED
+setText,Firefox 61.0,,2018-09-20 10:41:37,2018-09-20 10:41:37,"0,057s",PASSED
+setText,Firefox 61.0,,2018-09-20 10:41:37,2018-09-20 10:41:37,"0,044s",PASSED
+click,Firefox 61.0,,2018-09-20 10:41:37,2018-09-20 10:41:37,"0,365s",PASSED
+click,Firefox 61.0,,2018-09-20 10:41:37,2018-09-20 10:41:44,"6,705s",FAILED
