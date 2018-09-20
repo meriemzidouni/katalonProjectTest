@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestSuite1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-09-20T14:55:07</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>4cd6931d-bbb5-4b37-be55-cb1eaf21510d</testSuiteGuid>
+   <testCaseLink>
+      <guid>f72e88e5-3c7e-49f1-a827-c55ca030cccf</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestCase1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c87407d0-944b-40d4-84e5-eb453d2a7d72</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Demo_Account</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b5e2a550-c44a-4706-9cb1-07dcff312c61</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/MidiCareCaid</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>c87407d0-944b-40d4-84e5-eb453d2a7d72</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>demo_usn</value>
+         <variableId>65ad6487-aa0b-46ce-abd5-4a5721c7da1f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c87407d0-944b-40d4-84e5-eb453d2a7d72</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>demo_pwd</value>
+         <variableId>973ceaa4-bebd-4ad7-baa0-169ccc886a81</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b5e2a550-c44a-4706-9cb1-07dcff312c61</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>midiCare</value>
+         <variableId>c3bafebb-aee4-4e87-811d-5856843f2750</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b5e2a550-c44a-4706-9cb1-07dcff312c61</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>midiCaid</value>
+         <variableId>35e701e6-aea5-4579-bb3c-37d47555b5ea</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginVar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6ddaac0-f7b0-42d9-9c23-7cc0c792a197</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>59eb4e00-eefa-402c-a6fb-5b609f7f19dc</id>
+      <masked>false</masked>
+      <name>demo_usn</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>da1c856d-9721-420f-bfd8-e802982ad3ee</id>
+      <masked>false</masked>
+      <name>demo_pwd</name>
+   </variable>
+</TestCaseEntity>

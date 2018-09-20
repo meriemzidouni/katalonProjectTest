@@ -1,0 +1,40 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite3,Firefox 61.0,Common Condition and Control statements with Katalon Studio,2018-09-20 12:12:42,2018-09-20 12:13:14,"31,791s",PASSED
+,,,,,,
+Test Cases/TestCase3,Firefox 61.0,Decision-making statements. MidiCare and MidiCaid,2018-09-20 12:12:42,2018-09-20 12:12:53,"10,961s",PASSED
+openBrowser,Firefox 61.0,,2018-09-20 12:12:42,2018-09-20 12:12:47,"4,716s",PASSED
+navigateToUrl,Firefox 61.0,,2018-09-20 12:12:47,2018-09-20 12:12:49,"1,922s",PASSED
+click,Firefox 61.0,,2018-09-20 12:12:49,2018-09-20 12:12:49,"0,323s",PASSED
+setText,Firefox 61.0,,2018-09-20 12:12:49,2018-09-20 12:12:50,"0,087s",PASSED
+setEncryptedText,Firefox 61.0,,2018-09-20 12:12:50,2018-09-20 12:12:50,"0,117s",PASSED
+click,Firefox 61.0,,2018-09-20 12:12:50,2018-09-20 12:12:50,"0,439s",PASSED
+Statement - If (midiCare),Firefox 61.0,,2018-09-20 12:12:50,2018-09-20 12:12:50,"0,251s",PASSED
+setText,Firefox 61.0,,2018-09-20 12:12:50,2018-09-20 12:12:50,"0,046s",PASSED
+click,Firefox 61.0,,2018-09-20 12:12:50,2018-09-20 12:12:51,"0,383s",PASSED
+closeBrowser,Firefox 61.0,,2018-09-20 12:12:51,2018-09-20 12:12:51,"0,210s",PASSED
+,,,,,,
+Test Cases/TestCase3,Firefox 61.0,Decision-making statements. MidiCare and MidiCaid,2018-09-20 12:12:53,2018-09-20 12:13:03,"9,841s",PASSED
+openBrowser,Firefox 61.0,,2018-09-20 12:12:53,2018-09-20 12:12:57,"3,871s",PASSED
+navigateToUrl,Firefox 61.0,,2018-09-20 12:12:57,2018-09-20 12:12:59,"2,143s",PASSED
+click,Firefox 61.0,,2018-09-20 12:12:59,2018-09-20 12:12:59,"0,351s",PASSED
+setText,Firefox 61.0,,2018-09-20 12:12:59,2018-09-20 12:12:59,"0,058s",PASSED
+setEncryptedText,Firefox 61.0,,2018-09-20 12:12:59,2018-09-20 12:12:59,"0,057s",PASSED
+click,Firefox 61.0,,2018-09-20 12:12:59,2018-09-20 12:13:00,"0,440s",PASSED
+Statement - If (midiCare),Firefox 61.0,,2018-09-20 12:13:00,2018-09-20 12:13:00,"0,242s",PASSED
+setText,Firefox 61.0,,2018-09-20 12:13:00,2018-09-20 12:13:00,"0,051s",PASSED
+click,Firefox 61.0,,2018-09-20 12:13:00,2018-09-20 12:13:01,"0,391s",PASSED
+closeBrowser,Firefox 61.0,,2018-09-20 12:13:01,2018-09-20 12:13:01,"0,184s",PASSED
+,,,,,,
+Test Cases/TestCase3,Firefox 61.0,Decision-making statements. MidiCare and MidiCaid,2018-09-20 12:13:03,2018-09-20 12:13:14,"10,710s",PASSED
+openBrowser,Firefox 61.0,,2018-09-20 12:13:03,2018-09-20 12:13:07,"3,824s",PASSED
+navigateToUrl,Firefox 61.0,,2018-09-20 12:13:07,2018-09-20 12:13:10,"3,076s",PASSED
+click,Firefox 61.0,,2018-09-20 12:13:10,2018-09-20 12:13:10,"0,509s",PASSED
+setText,Firefox 61.0,,2018-09-20 12:13:10,2018-09-20 12:13:10,"0,073s",PASSED
+setEncryptedText,Firefox 61.0,,2018-09-20 12:13:10,2018-09-20 12:13:10,"0,064s",PASSED
+click,Firefox 61.0,,2018-09-20 12:13:10,2018-09-20 12:13:11,"0,356s",PASSED
+Statement - If (midiCare),Firefox 61.0,,2018-09-20 12:13:11,2018-09-20 12:13:11,"0,002s",PASSED
+Statement - Else If (midiCaid),Firefox 61.0,,2018-09-20 12:13:11,2018-09-20 12:13:11,"0,000s",PASSED
+Statement - Else,Firefox 61.0,,2018-09-20 12:13:11,2018-09-20 12:13:11,"0,254s",PASSED
+setText,Firefox 61.0,,2018-09-20 12:13:11,2018-09-20 12:13:11,"0,044s",PASSED
+click,Firefox 61.0,,2018-09-20 12:13:11,2018-09-20 12:13:11,"0,292s",PASSED
+closeBrowser,Firefox 61.0,,2018-09-20 12:13:11,2018-09-20 12:13:12,"0,193s",PASSED

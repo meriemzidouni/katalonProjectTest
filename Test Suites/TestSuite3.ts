@@ -4,7 +4,7 @@
    <name>TestSuite3</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-09-20T11:24:44</lastRun>
+   <lastRun>2018-09-20T12:12:36</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -36,12 +36,6 @@
          <type>DATA_COLUMN</type>
          <value>midiCaid</value>
          <variableId>5e842eef-612a-4ea3-aa85-14f4f04bb082</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>bbec6278-3180-41b0-bb24-e72e67392fe5</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

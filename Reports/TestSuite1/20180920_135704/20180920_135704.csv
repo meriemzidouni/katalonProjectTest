@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,,,2018-09-20 13:57:10,2018-09-20 13:57:13,"3,168s",ERROR
+,,,,,,
+Test Cases/TestCase1,,Common Condition and Control statements with Katalon Studio,2018-09-20 13:57:11,2018-09-20 13:57:13,"2,856s",ERROR
+callTestCase,,,2018-09-20 13:57:11,2018-09-20 13:57:11,"0,241s",PASSED
+callTestCase,,,2018-09-20 13:57:11,2018-09-20 13:57:11,"0,208s",FAILED

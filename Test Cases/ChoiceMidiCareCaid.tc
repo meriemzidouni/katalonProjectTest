@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ChoiceMidiCareCaid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>865461fd-a81e-48d4-a9ff-7900604a022b</testCaseGuid>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>b4bdcd45-de3d-4d0b-90c5-aaa5274c38b0</id>
+      <masked>false</masked>
+      <name>midiCaid</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>1028d0e4-0bb2-4fb5-861c-137096cb2c22</id>
+      <masked>false</masked>
+      <name>midiCare</name>
+   </variable>
+</TestCaseEntity>

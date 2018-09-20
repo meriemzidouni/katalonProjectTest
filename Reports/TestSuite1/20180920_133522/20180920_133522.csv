@@ -1,0 +1,35 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,Firefox 61.0,,2018-09-20 13:35:28,2018-09-20 13:36:03,"35,610s",ERROR
+,,,,,,
+Test Cases/TestCaseLogin,Firefox 61.0,,2018-09-20 13:35:28,2018-09-20 13:35:39,"11,042s",PASSED
+openBrowser,Firefox 61.0,,2018-09-20 13:35:28,2018-09-20 13:35:33,"4,713s",PASSED
+navigateToUrl,Firefox 61.0,,2018-09-20 13:35:33,2018-09-20 13:35:36,"3,041s",PASSED
+click,Firefox 61.0,,2018-09-20 13:35:36,2018-09-20 13:35:36,"0,338s",PASSED
+setText,Firefox 61.0,,2018-09-20 13:35:36,2018-09-20 13:35:36,"0,085s",PASSED
+setText,Firefox 61.0,,2018-09-20 13:35:36,2018-09-20 13:35:36,"0,069s",PASSED
+click,Firefox 61.0,,2018-09-20 13:35:36,2018-09-20 13:35:37,"0,367s",PASSED
+,,,,,,
+Test Cases/TestCaseLogin,Firefox 61.0,,2018-09-20 13:35:39,2018-09-20 13:35:48,"8,837s",PASSED
+openBrowser,Firefox 61.0,,2018-09-20 13:35:39,2018-09-20 13:35:43,"3,991s",PASSED
+navigateToUrl,Firefox 61.0,,2018-09-20 13:35:43,2018-09-20 13:35:45,"1,983s",PASSED
+click,Firefox 61.0,,2018-09-20 13:35:45,2018-09-20 13:35:45,"0,340s",PASSED
+setText,Firefox 61.0,,2018-09-20 13:35:45,2018-09-20 13:35:45,"0,070s",PASSED
+setText,Firefox 61.0,,2018-09-20 13:35:45,2018-09-20 13:35:45,"0,067s",PASSED
+click,Firefox 61.0,,2018-09-20 13:35:45,2018-09-20 13:35:46,"0,351s",PASSED
+,,,,,,
+Test Cases/TestCaseLogin,Firefox 61.0,,2018-09-20 13:35:48,2018-09-20 13:35:57,"8,975s",PASSED
+openBrowser,Firefox 61.0,,2018-09-20 13:35:48,2018-09-20 13:35:52,"3,990s",PASSED
+navigateToUrl,Firefox 61.0,,2018-09-20 13:35:52,2018-09-20 13:35:54,"2,174s",PASSED
+click,Firefox 61.0,,2018-09-20 13:35:54,2018-09-20 13:35:54,"0,326s",PASSED
+setText,Firefox 61.0,,2018-09-20 13:35:54,2018-09-20 13:35:54,"0,062s",PASSED
+setText,Firefox 61.0,,2018-09-20 13:35:54,2018-09-20 13:35:54,"0,056s",PASSED
+click,Firefox 61.0,,2018-09-20 13:35:54,2018-09-20 13:35:55,"0,341s",PASSED
+,,,,,,
+Test Cases/TestCaseMidiCareCaid,Firefox 61.0,,2018-09-20 13:35:57,2018-09-20 13:35:59,"2,194s",ERROR
+Statement - If (midiCare),Firefox 61.0,,2018-09-20 13:35:57,2018-09-20 13:35:57,"0,015s",PASSED
+,,,,,,
+Test Cases/TestCaseMidiCareCaid,Firefox 61.0,,2018-09-20 13:35:59,2018-09-20 13:36:01,"2,049s",ERROR
+Statement - If (midiCare),Firefox 61.0,,2018-09-20 13:35:59,2018-09-20 13:35:59,"0,000s",PASSED
+,,,,,,
+Test Cases/TestCaseMidiCareCaid,Firefox 61.0,,2018-09-20 13:36:01,2018-09-20 13:36:03,"2,045s",ERROR
+Statement - If (midiCare),Firefox 61.0,,2018-09-20 13:36:01,2018-09-20 13:36:01,"0,000s",PASSED

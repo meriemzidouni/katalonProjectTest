@@ -5,4 +5,32 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>afe2bfb1-3d36-4d47-b571-7811dcf58922</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>65ad6487-aa0b-46ce-abd5-4a5721c7da1f</id>
+      <masked>false</masked>
+      <name>demo_usn</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>973ceaa4-bebd-4ad7-baa0-169ccc886a81</id>
+      <masked>false</masked>
+      <name>demo_pwd</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>c3bafebb-aee4-4e87-811d-5856843f2750</id>
+      <masked>false</masked>
+      <name>midiCare</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>35e701e6-aea5-4579-bb3c-37d47555b5ea</id>
+      <masked>false</masked>
+      <name>midiCaid</name>
+   </variable>
 </TestCaseEntity>
