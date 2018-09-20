@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description>Data-driven testing approach with Katalon Studio</description>
-   <name>TestSuite1</name>
+   <name>TestSuite2</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <lastRun>2018-09-20T10:55:02</lastRun>

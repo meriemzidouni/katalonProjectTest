@@ -17,8 +17,25 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 
-if (true) {
-    WebUI.click(findTestObject('Page_CURA Healthcare Service/input_Medicaid_programs'))
-} else if (true) {
+WebUI.click(findTestObject('Page_CURA Healthcare Service/a_Make Appointment'))
+
+WebUI.setText(findTestObject('Page_CURA Healthcare Service/input_Username_username'), 'John Doe')
+
+WebUI.setEncryptedText(findTestObject('Page_CURA Healthcare Service/input_Password_password'), 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
+
+WebUI.click(findTestObject('Page_CURA Healthcare Service/button_Login'))
+
+if (midiCare) {
+    WebUI.click(findTestObject('Page_CURA Healthcare Service/label_Medicare'))
+} else if (midiCaid) {
+    WebUI.click(findTestObject('Page_CURA Healthcare Service/label_Medicaid'))
+} else {
+    WebUI.click(findTestObject('Page_CURA Healthcare Service/label_None'))
 }
+
+WebUI.setText(findTestObject('Page_CURA Healthcare Service/textarea_Comment_comment'), 'Control')
+
+WebUI.click(findTestObject('Page_CURA Healthcare Service/button_Book Appointment'))
+
+WebUI.closeBrowser()
 

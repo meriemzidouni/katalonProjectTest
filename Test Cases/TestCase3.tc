@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Common Condition and Control statements with Katalon Studio</description>
+   <name>TestCase3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c398564c-8b6f-44bd-8150-819a5a60575f</testCaseGuid>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>0fb88eb4-950c-47c0-8459-2c93630cf0ef</id>
+      <masked>false</masked>
+      <name>midiCare</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>5e842eef-612a-4ea3-aa85-14f4f04bb082</id>
+      <masked>false</masked>
+      <name>midiCaid</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>bbec6278-3180-41b0-bb24-e72e67392fe5</id>
+      <masked>false</masked>
+      <name>midiNon</name>
+   </variable>
+</TestCaseEntity>

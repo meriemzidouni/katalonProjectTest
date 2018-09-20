@@ -1,0 +1,40 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite3,Firefox 61.0,Common Condition and Control statements with Katalon Studio,2018-09-20 11:24:49,2018-09-20 11:25:13,"24,132s",PASSED
+,,,,,,
+Test Cases/TestCase3,Firefox 61.0,Common Condition and Control statements with Katalon Studio,2018-09-20 11:24:50,2018-09-20 11:24:58,"8,884s",PASSED
+openBrowser,Firefox 61.0,,2018-09-20 11:24:50,2018-09-20 11:24:55,"4,768s",PASSED
+navigateToUrl,Firefox 61.0,,2018-09-20 11:24:55,2018-09-20 11:24:57,"1,969s",PASSED
+click,Firefox 61.0,,2018-09-20 11:24:57,2018-09-20 11:24:57,"0,355s",PASSED
+setText,Firefox 61.0,,2018-09-20 11:24:57,2018-09-20 11:24:57,"0,088s",PASSED
+setEncryptedText,Firefox 61.0,,2018-09-20 11:24:57,2018-09-20 11:24:57,"0,124s",PASSED
+click,Firefox 61.0,,2018-09-20 11:24:57,2018-09-20 11:24:58,"0,422s",PASSED
+Statement - If (midiCare),Firefox 61.0,,2018-09-20 11:24:58,2018-09-20 11:24:58,"0,241s",PASSED
+setText,Firefox 61.0,,2018-09-20 11:24:58,2018-09-20 11:24:58,"0,051s",PASSED
+click,Firefox 61.0,,2018-09-20 11:24:58,2018-09-20 11:24:58,"0,369s",PASSED
+closeBrowser,Firefox 61.0,,2018-09-20 11:24:58,2018-09-20 11:24:58,"0,185s",PASSED
+,,,,,,
+Test Cases/TestCase3,Firefox 61.0,Common Condition and Control statements with Katalon Studio,2018-09-20 11:24:58,2018-09-20 11:25:06,"7,427s",PASSED
+openBrowser,Firefox 61.0,,2018-09-20 11:24:58,2018-09-20 11:25:02,"3,804s",PASSED
+navigateToUrl,Firefox 61.0,,2018-09-20 11:25:02,2018-09-20 11:25:04,"1,885s",PASSED
+click,Firefox 61.0,,2018-09-20 11:25:04,2018-09-20 11:25:04,"0,378s",PASSED
+setText,Firefox 61.0,,2018-09-20 11:25:04,2018-09-20 11:25:05,"0,066s",PASSED
+setEncryptedText,Firefox 61.0,,2018-09-20 11:25:05,2018-09-20 11:25:05,"0,064s",PASSED
+click,Firefox 61.0,,2018-09-20 11:25:05,2018-09-20 11:25:05,"0,389s",PASSED
+Statement - If (midiCare),Firefox 61.0,,2018-09-20 11:25:05,2018-09-20 11:25:05,"0,229s",PASSED
+setText,Firefox 61.0,,2018-09-20 11:25:05,2018-09-20 11:25:05,"0,043s",PASSED
+click,Firefox 61.0,,2018-09-20 11:25:05,2018-09-20 11:25:06,"0,363s",PASSED
+closeBrowser,Firefox 61.0,,2018-09-20 11:25:06,2018-09-20 11:25:06,"0,190s",PASSED
+,,,,,,
+Test Cases/TestCase3,Firefox 61.0,Common Condition and Control statements with Katalon Studio,2018-09-20 11:25:06,2018-09-20 11:25:13,"7,498s",PASSED
+openBrowser,Firefox 61.0,,2018-09-20 11:25:06,2018-09-20 11:25:10,"3,810s",PASSED
+navigateToUrl,Firefox 61.0,,2018-09-20 11:25:10,2018-09-20 11:25:12,"1,936s",PASSED
+click,Firefox 61.0,,2018-09-20 11:25:12,2018-09-20 11:25:12,"0,379s",PASSED
+setText,Firefox 61.0,,2018-09-20 11:25:12,2018-09-20 11:25:12,"0,065s",PASSED
+setEncryptedText,Firefox 61.0,,2018-09-20 11:25:12,2018-09-20 11:25:12,"0,060s",PASSED
+click,Firefox 61.0,,2018-09-20 11:25:12,2018-09-20 11:25:12,"0,377s",PASSED
+Statement - If (midiCare),Firefox 61.0,,2018-09-20 11:25:12,2018-09-20 11:25:12,"0,000s",PASSED
+Statement - Else If (midiCaid),Firefox 61.0,,2018-09-20 11:25:12,2018-09-20 11:25:12,"0,000s",PASSED
+Statement - Else,Firefox 61.0,,2018-09-20 11:25:12,2018-09-20 11:25:13,"0,242s",PASSED
+setText,Firefox 61.0,,2018-09-20 11:25:13,2018-09-20 11:25:13,"0,047s",PASSED
+click,Firefox 61.0,,2018-09-20 11:25:13,2018-09-20 11:25:13,"0,379s",PASSED
+closeBrowser,Firefox 61.0,,2018-09-20 11:25:13,2018-09-20 11:25:13,"0,184s",PASSED
