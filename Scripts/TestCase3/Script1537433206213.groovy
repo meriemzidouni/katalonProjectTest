@@ -15,15 +15,10 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demoaut.katalon.com/')
+WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 
-WebUI.click(findTestObject('Page_CURA Healthcare Service/a_Make Appointment'))
-
-WebUI.setText(findTestObject('Page_CURA Healthcare Service/input_Username_username'), demo_usn)
-
-WebUI.setText(findTestObject('Page_CURA Healthcare Service/input_Password_password'), demo_pwd)
-
-WebUI.click(findTestObject('Page_CURA Healthcare Service/button_Login'))
-
-WebUI.closeBrowser()
+if (true) {
+    WebUI.click(findTestObject('Page_CURA Healthcare Service/input_Medicaid_programs'))
+} else if (true) {
+}
 
