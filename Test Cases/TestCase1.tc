@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Common Condition and Control statements with Katalon Studio</description>
+   <name>TestCase1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afe2bfb1-3d36-4d47-b571-7811dcf58922</testCaseGuid>
+</TestCaseEntity>
