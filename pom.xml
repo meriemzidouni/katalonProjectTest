@@ -5,7 +5,7 @@
   <version>1.0.0-SNAPSHOT</version>
   
   <properties>
-	<katalon.project.file>https://github.com/meriemzidouni/katalonProjectTest.git/katalonProjectTest.prj</katalon.project.file>
+	<katalon.project.file>${katalonProjectFile}</katalon.project.file>
   </properties>
 
   <build>
